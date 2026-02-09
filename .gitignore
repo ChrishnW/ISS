@@ -1,3 +1,7 @@
 assets/images/*.jpg
 assets/videos/*.mp4
 results/*.txt
+venv/
+__pycache__/
+.pyc
+.DS_Store
