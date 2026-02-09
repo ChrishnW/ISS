@@ -1,5 +1,5 @@
-assets/images/*.jpg
-assets/videos/*.mp4
+assets/images/*
+assets/videos/*
 results/*.txt
 venv/
 __pycache__/
