@@ -1,8 +1,0 @@
-cameras:
-  - id: 1
-    name: Place 1
-    # rtsp: rtsp://user:pass@192.168.1.10:554/stream1
-
-  - id: 2
-    name: Place 2
-    # rtsp: rtsp://user:pass@192.168.1.11:554/stream1
